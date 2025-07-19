@@ -9672,6 +9672,16 @@ START: Service CSS
   z-index: -1;
 }
 
+.new-service-text {
+  font-size: 26px;
+  text-align: center;
+  font-weight: 700;
+  color: var(--rr-color-grey-2);
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  display: block;
+}
+
 .service-item .service-text {
   text-align: center;
 }
